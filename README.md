@@ -1,4 +1,5 @@
 ### Hi there 👋
+🔭 I’m currently working on deep learning techniques.
 
 <!--
 **HilderShen/HilderShen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hildershen&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hildershen)](https://github.com/anuraghazra/github-readme-stats)
